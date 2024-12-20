@@ -1,1 +1,1 @@
-Página criaa em HTML sobre video-games antigos.
+Página criada em HTML sobre video-games antigos.
