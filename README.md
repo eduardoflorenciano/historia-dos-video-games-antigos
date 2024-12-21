@@ -1,8 +1,8 @@
-<h1 style="text-align: center;">🕹️ Gamefy | História dos Video-Games Antigos </h1>
+# 🕹️ Gamefy | História dos Video-Games Antigos
 
 Bem-vindo ao repositório do **Gamefy**, um site dedicado à celebração da história dos video-games antigos e dos jogos que marcaram época. Explore os consoles e jogos que moldaram gerações de gamers e revolucionaram a indústria do entretenimento eletrônico.
 
-<h3 style="text-align: center;"><a href="https://eduardoflorenciano.github.io/historia-dos-video-games-antigos/">Clique Aqui</a></h3>
+<h3><a href="https://eduardoflorenciano.github.io/historia-dos-video-games-antigos/">Clique Aqui</a></h3>
 
 ## 👀 Visão Geral do Projeto
 
