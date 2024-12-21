@@ -4,7 +4,7 @@ Bem-vindo ao repositório do **Gamefy**, um site dedicado à celebração da his
 
 ![tela-incial](https://github.com/user-attachments/assets/d82733eb-da0f-438b-9dad-44dec9437e66)
 
-<h3>Quer ver o projeto? <a href="https://eduardoflorenciano.github.io/historia-dos-video-games-antigos/">Clique Aqui</a></h3>
+<h3>Quer ver o projeto? <a href="https://eduardoflorenciano.github.io/historia-dos-video-games-antigos/" target="_blank">Clique Aqui</a></h3>
 
 ## 👀 Visão Geral do Projeto
 
