@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do **Gamefy**, um site dedicado à celebração da história dos video-games antigos e dos jogos que marcaram época. Explore os consoles e jogos que moldaram gerações de gamers e revolucionaram a indústria do entretenimento eletrônico.
 
-![tela-incial](https://github.com/user-attachments/assets/d82733eb-da0f-438b-9dad-44dec9437e66)
+![visao-do-site](https://github.com/user-attachments/assets/2889b787-c4bf-402e-b038-90f2b9f3982e)
 
 <h3>Quer ver o projeto? <a href="https://eduardoflorenciano.github.io/historia-dos-video-games-antigos/">Clique Aqui</a></h3>
 
