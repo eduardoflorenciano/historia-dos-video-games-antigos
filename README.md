@@ -17,7 +17,7 @@ O Gamefy foi criado para preservar e compartilhar informações sobre consoles c
 - Links para fontes confiáveis para aprofundamento.
 - Imagens ilustrativas de alta qualidade dos consoles e jogos.
 
-## 🦾 Estrutura do Site
+## 🏗️ Estrutura do Site
 
 ### **Seções Principais**
 
